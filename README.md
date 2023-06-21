@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Benjamin-0012/Benjamin-0012/blob/main/Capture.JPG)
 
 ### Hi there 👋, My name is Benjamin Emmanuel Wanjala
 #### I am a Full Stack Developer
