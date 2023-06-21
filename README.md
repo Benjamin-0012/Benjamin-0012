@@ -1,3 +1,5 @@
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, My name is Benjamin Emmanuel Wanjala
 #### I am a Full Stack Developer
 Am responsible for working on both front-end and back-end development processes. I design, develop, and maintain fully-fledged and functioning platforms with databases or servers.
